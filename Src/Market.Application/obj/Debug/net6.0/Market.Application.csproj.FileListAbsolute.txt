@@ -1,0 +1,72 @@
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\libzstd.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\snappy32.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\snappy64.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\libzstd.so
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Application.deps.json
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Domain.Core.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Domain.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Domain.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\bin\Debug\net6.0\Market.Domain.Core.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.csproj.AssemblyReference.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.AssemblyInfoInputs.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.AssemblyInfo.cs
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.csproj.CoreCompileInputs.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.csproj.CopyComplete
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\refint\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Market.Application\obj\Debug\net6.0\ref\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\libzstd.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\snappy32.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\snappy64.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\libzstd.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Application.deps.json
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Domain.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Domain.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Domain.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\bin\Debug\net6.0\Market.Domain.Core.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.csproj.AssemblyReference.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.AssemblyInfoInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.AssemblyInfo.cs
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.csproj.CoreCompileInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.csproj.CopyComplete
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\refint\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Market.Application\obj\Debug\net6.0\ref\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\libzstd.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\snappy32.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\snappy64.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\libzstd.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Application.deps.json
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Domain.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Domain.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Domain.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\bin\Debug\net6.0\Market.Domain.Core.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.csproj.AssemblyReference.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.AssemblyInfoInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.AssemblyInfo.cs
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.csproj.CoreCompileInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.csproj.CopyComplete
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\refint\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Application\obj\Debug\net6.0\ref\Market.Application.dll

@@ -1,0 +1,609 @@
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\testhost.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\testhost.exe
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.deps.json
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.runtimeconfig.json
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.abstractions.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.assert.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.core.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.AssemblyReference.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.AssemblyInfoInputs.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.AssemblyInfo.cs
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.CoreCompileInputs.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.CopyComplete
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\refint\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.genruntimeconfig.cache
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\obj\Debug\net6.0\ref\Market.UnitTests.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\snappy32.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\snappy64.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libsnappy64.so
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.so
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libsnappy64.dylib
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.dylib
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Autofac.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\DnsClient.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.ClientAPI.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.Client.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.Client.Streams.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MediatR.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\protobuf-net.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\protobuf-net.Core.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Application.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.Core.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Infrastructure.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Infrastructure.pdb
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.pdb
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Application.pdb
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.Core.pdb
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Moq.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\RabbitMQ.Client.dll
+c:\Users\FPT SHOP\Downloads\Web-C#\ASP NET API +Angular 2\AppLication\BackEnd_App\Server\Services\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Threading.Channels.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\snappy32.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\snappy64.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\testhost.exe
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\testhost.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.deps.json
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.runtimeconfig.json
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Autofac.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\DnsClient.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.ClientAPI.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.Client.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.Client.Streams.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Google.Protobuf.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Core.Api.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Net.Client.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Net.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MediatR.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MediatR.Contracts.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Moq.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\protobuf-net.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\protobuf-net.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\RabbitMQ.Client.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\StackExchange.Redis.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Linq.Async.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Threading.Channels.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.assert.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Infrastructure.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Infrastructure.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.Core.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.AssemblyReference.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.AssemblyInfoInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.AssemblyInfo.cs
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.CoreCompileInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.CopyComplete
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\refint\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.genruntimeconfig.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Tests\Market.UnitTests\obj\Debug\net6.0\ref\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\snappy32.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\snappy64.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\testhost.exe
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\testhost.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.deps.json
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.runtimeconfig.json
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.UnitTests.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Autofac.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\DnsClient.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.ClientAPI.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.Client.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\EventStore.Client.Streams.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Google.Protobuf.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Core.Api.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Net.Client.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Grpc.Net.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\MediatR.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\MediatR.Contracts.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Bson.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Driver.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Moq.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\protobuf-net.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\protobuf-net.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.Extensions.DependencyInjection.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\RabbitMQ.Client.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\SharpCompress.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\StackExchange.Redis.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.IO.Pipelines.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Linq.Async.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Threading.Channels.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.assert.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Application.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.Core.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Infrastructure.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Infrastructure.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Application.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Market.Domain.Core.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.AssemblyReference.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.AssemblyInfoInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.AssemblyInfo.cs
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.CoreCompileInputs.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.csproj.CopyComplete
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\refint\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.pdb
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.genruntimeconfig.cache
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\ref\Market.UnitTests.dll
