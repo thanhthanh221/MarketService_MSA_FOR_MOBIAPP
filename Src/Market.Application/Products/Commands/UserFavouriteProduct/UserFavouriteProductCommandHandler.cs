@@ -19,13 +19,13 @@ public class UserFavouriteProductCommandHandler : ICommandHandler<UserFavouriteP
         var product = await productRepository.GetProductByIdAsync(request.ProductId);
         if (product is null) return false;
 
-        var checkUserFavourite = product.ProductUser.UserFavouriteProduct.Any(u => u == request.User);
+        var checkUserFavourite = product.ProductUser.UserFavouriteProduct.Any(u => u == request.User.Id);
 
         if (checkUserFavourite) {
             product.UserRemovedFavourite(product.ProductId, request.User);
             logger.LogInformation($"{request.User} Un favourite froduct {request.ProductId}");
         }
-        product.UserFavouriteProduct(product.ProductId, request.User);
+        product.UserFavouriteProduct(request.User);
         logger.LogInformation($"{request.User} favourite product {request.ProductId}");
 
         await productRepository.UpdateProductAsync(product);

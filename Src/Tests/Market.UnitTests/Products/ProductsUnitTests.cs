@@ -24,9 +24,9 @@ public class ProductsUnitTests
             ProductCategory.Bread
         };
         ProductUser productUser = new() {
-            UserFavouriteProduct = new List<UserId>() {
-                new UserId(Guid.NewGuid()),
-                new UserId(Guid.NewGuid())
+            UserFavouriteProduct = new() {
+                Guid.NewGuid(),
+                Guid.NewGuid()
             }
         };
         ProductOrder productOrder = new(0, new TimeSpan(1, 10, 10));
@@ -56,10 +56,10 @@ public class ProductsUnitTests
     {
         UserId userId = new(Guid.NewGuid());
 
-        productAggregate.UserFavouriteProduct(productAggregate.ProductId, userId);
+        productAggregate.UserFavouriteProduct(userId);
 
         Assert.IsType<ProductUserFavouriteDomainEvent>(productAggregate.DomainEvents.LastOrDefault());
-        Assert.Contains(userId, productAggregate.ProductUser.UserFavouriteProduct);
+        Assert.Contains(userId.Id, productAggregate.ProductUser.UserFavouriteProduct);
     }
 
     [Fact]
@@ -67,10 +67,10 @@ public class ProductsUnitTests
     {
         UserId userId = new(Guid.NewGuid());
 
-        productAggregate.UserFavouriteProduct(productAggregate.ProductId, userId);
+        productAggregate.UserFavouriteProduct(userId);
 
         var exception = Assert.Throws<UserFavouriteProduct>(() =>
-            productAggregate.UserFavouriteProduct(productAggregate.ProductId, userId));
+            productAggregate.UserFavouriteProduct(userId));
 
         Assert.Equal("User Has Favourited Product", exception.Message);
     }
@@ -80,11 +80,11 @@ public class ProductsUnitTests
     {
         UserId userId = new(Guid.NewGuid());
 
-        productAggregate.UserFavouriteProduct(productAggregate.ProductId, userId);
+        productAggregate.UserFavouriteProduct(userId);
         productAggregate.UserRemovedFavourite(productAggregate.ProductId, userId);
 
         Assert.IsType<ProductUserRemovedFavouriteDomainEvent>(productAggregate.DomainEvents.LastOrDefault());
-        Assert.DoesNotContain(userId, productAggregate.ProductUser.UserFavouriteProduct);
+        Assert.DoesNotContain(userId.Id, productAggregate.ProductUser.UserFavouriteProduct);
     }
 
     [Fact]
@@ -102,13 +102,12 @@ public class ProductsUnitTests
     public void UserOrderProduct_IsSuscess()
     {
         UserId userId = new(Guid.NewGuid());
-        List<ProductTypeUserOrderEvent> productTypeUserOrders = productAggregate
-            .ProductType.ProductTypeValues.Select(pt => {
-                return new ProductTypeUserOrderEvent(
-                    pt.ProductTypeValueId, pt.ValueType, pt.PriceType, 5);
-            }).ToList();
 
-        productAggregate.UserOrderProductSuccess(userId, productTypeUserOrders);
+        productAggregate.UserOrderProductSuccess(
+            userId, productAggregate.ProductType.ProductTypeValues[0].ProductTypeValueId,5);
+
+        productAggregate.UserOrderProductSuccess(
+            userId, productAggregate.ProductType.ProductTypeValues[1].ProductTypeValueId,5);
 
         ProductUserOrderedProductSuccessDomainEvent productDomainEventWhenUserOrderedProduct =
             (ProductUserOrderedProductSuccessDomainEvent)productAggregate.DomainEvents.LastOrDefault();
@@ -118,11 +117,29 @@ public class ProductsUnitTests
 
         Assert.Equal(12, productAggregate.ProductType.ProductTypeValues.First().QuantityType);
         Assert.Equal(81, productAggregate.ProductType.ProductTypeValues[1].QuantityType);
-        Assert.Equal(54, productAggregate.ProductType.ProductTypeValues.Last().QuantityType);
 
         Assert.Equal(5, productAggregate.ProductType.ProductTypeValues.First().QuantityProductTypeSold);
         Assert.Equal(5, productAggregate.ProductType.ProductTypeValues[1].QuantityProductTypeSold);
-        Assert.Equal(5, productAggregate.ProductType.ProductTypeValues.Last().QuantityProductTypeSold);
+    }
+
+    [Fact]
+    public void UserOrderProduct_IsRecoverdSuscess()
+    {
+        UserId userId = new(Guid.NewGuid());
+
+        productAggregate.UserOrderProductSuccess(
+            userId, productAggregate.ProductType.ProductTypeValues[0].ProductTypeValueId,5);
+
+        productAggregate.UserOrderRecoveredProduct(
+            userId, productAggregate.ProductType.ProductTypeValues[0].ProductTypeValueId,5);
+        Assert.IsType<ProductUserOrderedProductRecoverdDomainEvent>(productAggregate.DomainEvents.LastOrDefault());
+
+        ProductUserOrderedProductRecoverdDomainEvent LastDomainEvent =
+            (ProductUserOrderedProductRecoverdDomainEvent)productAggregate.DomainEvents.LastOrDefault();
+        Assert.Equal(userId, LastDomainEvent.UserId);
+
+        Assert.Equal(17, productAggregate.ProductType.ProductTypeValues.First().QuantityType);
+        Assert.Equal(0, productAggregate.ProductType.ProductTypeValues.First().QuantityProductTypeSold);
     }
 
     [Fact]

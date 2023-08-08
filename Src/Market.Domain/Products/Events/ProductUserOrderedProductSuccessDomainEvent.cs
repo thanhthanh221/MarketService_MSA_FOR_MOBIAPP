@@ -6,16 +6,14 @@ public class ProductUserOrderedProductSuccessDomainEvent : DomainEventBase
 {
     public ProductId ProductId { get; private set; }
     public UserId UserId { get; private set; }
-    public List<ProductTypeUserOrderEvent> ProductTypeUserOrders { get; private set; }
-    public DateTime TimeOrderProduct { get; private set; }
+    public ProductTypeUserOrderEvent ProductTypeUserOrder { get; private set; }
 
     public ProductUserOrderedProductSuccessDomainEvent(
-        ProductId productId, UserId userId, List<ProductTypeUserOrderEvent> productTypeUserOrders)
+        ProductId productId, UserId userId, ProductTypeUserOrderEvent productTypeUserOrder)
     {
         ProductId = productId;
         UserId = userId;
-        ProductTypeUserOrders = productTypeUserOrders;
-        TimeOrderProduct = DateTime.UtcNow;
+        ProductTypeUserOrder = productTypeUserOrder;
     }
 }
 

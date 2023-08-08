@@ -607,3 +607,9 @@ c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTest
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.pdb
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\Market.UnitTests.genruntimeconfig.cache
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\obj\Debug\net6.0\ref\Market.UnitTests.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\RestSharp.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\System.Text.Json.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Imgur.API.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.UnitTests\bin\Debug\net6.0\Quartz.Extensions.Hosting.dll

@@ -17,13 +17,13 @@ public class CreateProductCommand : CommandBase<Guid>
     public List<int> CategoriesId { get; set; }
     public TimeSpan TimeOrder { get; set; }
 
-    public CreateProductCommand(Guid productId, string name, int calo, string descretion, double star, string productImageUri, DateTime createAt, string productTypeName, List<ProductTypeValue> productTypeValues, List<int> categoriesId, TimeSpan timeOrder)
+    public CreateProductCommand(Guid productId, string name, int calo, string descretion, string productImageUri, DateTime createAt, string productTypeName, List<ProductTypeValue> productTypeValues, List<int> categoriesId, TimeSpan timeOrder)
     {
         ProductId = productId;
         Name = name;
         Calo = calo;
         Descretion = descretion;
-        Star = star;
+        Star = 0;
         ProductImageUri = productImageUri;
         CreateAt = createAt;
         ProductTypeName = productTypeName;

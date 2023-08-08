@@ -7,8 +7,7 @@ public class ProductCreatedDomainEvent : DomainEventBase
     {
         ProductAggregate = productAggregate;
     }
-
-    public ProductAggregate ProductAggregate {get; set;}
+    public ProductAggregate ProductAggregate { get; set; }
 }
 
 

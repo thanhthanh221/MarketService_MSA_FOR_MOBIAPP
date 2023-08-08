@@ -8,8 +8,8 @@ public class ProductCategory : Enumeration
     {
         (Id, CategoryName, CategoryIconUri) = (id, categoryName, categoryIconUri);
     }
-    public string CategoryName { get; private set; }
-    public string CategoryIconUri { get; private set; }
+    public string CategoryName { get; set; }
+    public string CategoryIconUri { get; set; }
 
     // Category Value
     public static ProductCategory Bbq { get; private set; } = new(0, "bbq", "bbq.png");
@@ -39,12 +39,13 @@ public class ProductCategory : Enumeration
 
     public override bool Equals(object obj)
     {
-        if (obj == null || this.GetType() != obj.GetType()) {
+        if (obj == null || GetType() != obj.GetType())
+        {
             return false;
         }
 
         ProductCategory otherObject = (ProductCategory)obj;
-        
+
         return CategoryName == otherObject.CategoryName;
     }
 

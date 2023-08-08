@@ -5,6 +5,7 @@ namespace Market.Domain.Coupons;
 public class CouponInfomation
 {
     public string Code { get; private set; }
+    public string Titile { get; private set; }
     public List<string> Descriptios { get; private set; }
     public decimal PriceMinOrder { get; private set; }
     public decimal PriceReduced { get; private set; }
@@ -15,11 +16,13 @@ public class CouponInfomation
 
     public CouponInfomation(
         string code,
+        string titile,
         List<string> descriptios,
         decimal priceMinOrder,
         decimal priceReduced,
         int amount,
-        UserId adminId)
+        UserId adminId,
+        DateTime expired)
     {
         if (amount < 0) throw new AmountIsValidate();
         if (priceReduced < 0) throw new PriceReducedNotValidate();
@@ -27,13 +30,14 @@ public class CouponInfomation
 
 
         Code = code;
+        Titile = titile;
         Descriptios = descriptios;
         PriceMinOrder = priceMinOrder;
         PriceReduced = priceReduced;
         Amount = amount;
         AdminId = adminId;
         CountCouponUse = 0;
-        Expired = DateTime.UtcNow;
+        Expired = expired;
     }
 
     public void SetCouponAmount(int newAmount)
@@ -41,8 +45,9 @@ public class CouponInfomation
         if (newAmount < 0) throw new AmountIsValidate();
         Amount = newAmount;
     }
-    public void SetCountCouponUse(int newCount) {
-        if(newCount < 0) throw new AmountIsValidate();
+    public void SetCountCouponUse(int newCount)
+    {
+        if (newCount < 0) throw new AmountIsValidate();
         CountCouponUse = newCount;
     }
 }

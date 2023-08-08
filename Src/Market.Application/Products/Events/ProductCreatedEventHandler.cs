@@ -19,12 +19,14 @@ public class ProductCreatedEventHandler : IEventHandler<ProductCreatedDomainEven
     public async Task Handle(ProductCreatedDomainEvent @event, CancellationToken cancellationToken)
     {
         // Save Event To Event Store
-        await productEventStore.SaveProductDomainEventAsync(@event.ProductAggregate);
+        await productEventStore.SaveProductDomainEventAsync(@event.ProductAggregate.ProductId, 
+            @event, cancellationToken);
 
+        var productSnapShot = ProductSnapShot.ConvertProductToShapshot(@event.ProductAggregate);
         // Save Data To Cache(Create To Read Data Base)
         await reponseCache.SetCacheReponseAsync(
-            CachePatternData.ProductPattern+@event.ProductAggregate.ProductId.Id,
-            @event.ProductAggregate, 
-            new TimeSpan(24,0,0));
+            CachePatternData.ProductPattern + @event.ProductAggregate.ProductId.Id,
+            productSnapShot,
+            new TimeSpan(24, 0, 0));
     }
 }

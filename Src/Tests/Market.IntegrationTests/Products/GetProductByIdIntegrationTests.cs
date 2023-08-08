@@ -14,16 +14,7 @@ public class GetProductByIdIntegrationTests : IClassFixture<ProductIntergrationT
         this.mediator = mediator;
     }
 
-    [Fact]
-    public async Task GetProductById_When_CacheNull_ReadInDataBase_Query_Application()
-    {
-        UserId userId = new(Guid.NewGuid());
-        await fixture.productRepository
-            .CreateProductAsync(ProductIntergrationTestsFixture.CreateProductDataFake());
-
-        var productDtoReturn = await mediator.Send(new GetProductByIdQuery(
-            ProductIntergrationTestsFixture.CreateProductDataFake().ProductId, userId));
-    }
+    
     [Fact]
     public async Task GetProductById_Product_InRepositoty()
     {

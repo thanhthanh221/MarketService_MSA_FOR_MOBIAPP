@@ -14,15 +14,15 @@ public class CreateProductCommentCommand : CommandBase<Guid>
     public int Star { get; private set; }
 
     public CreateProductCommentCommand(
-        ProductCommentId productCommentId,
-        ProductId productId,
-        UserId userId,
+        Guid productCommentId,
+        Guid productId,
+        Guid userId,
         string comment,
         int star)
     {
-        ProductCommentId = productCommentId;
-        ProductId = productId;
-        UserId = userId;
+        ProductCommentId = new(productCommentId);
+        ProductId = new(productId);
+        UserId = new(userId);
         Comment = comment;
         Star = star;
     }

@@ -1,13 +1,13 @@
 using System.Text;
 using Market.Application.Common.Message;
+using Market.Application.Configurations.Message;
 using Market.Domain.Users;
-using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
 namespace Market.Infrastructure.Configurations.Message.MessageSubscribe;
-public class CreateUserConsumer : BackgroundService
+public class CreateUserConsumer : ConsumerBase
 {
     private readonly IUserRepository userRepository;
     private readonly IModel channel;

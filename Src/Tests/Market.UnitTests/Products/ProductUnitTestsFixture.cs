@@ -17,9 +17,9 @@ public class ProductUnitTestsFixture : IDisposable
         marketDbContext = new(Options.Create(new MongoDbSettings() {
             Host = "Localhost",
             Port = "27017",
-            Name = "Market_Service_UnitTest_Repository"
+            Name = "market_service"
         }));
-        productRepository = new(marketDbContext.Products);
+        productRepository = new(marketDbContext);
     }
     public static ProductAggregate CreateProductDataFake()
     {
@@ -37,9 +37,9 @@ public class ProductUnitTestsFixture : IDisposable
             ProductCategory.Bread
         };
         ProductUser productUser = new() {
-            UserFavouriteProduct = new List<UserId>() {
-                new UserId(Guid.NewGuid()),
-                new UserId(Guid.NewGuid())
+            UserFavouriteProduct = new() {
+                Guid.NewGuid(),
+                Guid.NewGuid()
             }
         };
         ProductOrder productOrder = new(0, new TimeSpan(1, 10, 10));
@@ -59,6 +59,6 @@ public class ProductUnitTestsFixture : IDisposable
 
     public void Dispose()
     {
-        marketDbContext.Client.DropDatabase("Market_Service_UnitTest_Repository");
+        // marketDbContext.Client.DropDatabase("Market_Service_UnitTest_Repository");
     }
 }

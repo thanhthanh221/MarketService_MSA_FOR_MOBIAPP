@@ -4,8 +4,8 @@ namespace Market.Domain.Coupons;
 
 public class CouponUser
 {
-    public UserId UserId { get; private set; }
-    public DateTime? TimeUserSaveCoupon { get; private set; }
+    public UserId UserId { get; set; }
+    public DateTime? TimeUserSaveCoupon { get; set; }
 
     public CouponUser(UserId userId)
     {
@@ -15,7 +15,8 @@ public class CouponUser
 
     public override bool Equals(object obj)
     {
-        if (obj == null || this.GetType() != obj.GetType()) {
+        if (obj == null || this.GetType() != obj.GetType())
+        {
             return false;
         }
 

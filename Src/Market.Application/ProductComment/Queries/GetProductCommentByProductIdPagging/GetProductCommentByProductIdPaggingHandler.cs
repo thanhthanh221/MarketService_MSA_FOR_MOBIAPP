@@ -36,8 +36,9 @@ public class GetProductCommentByProductIdPaggingHandler
             allProductCommentByProductId.Skip((Page - 1) * PageSize).Take(PageSize).ToList();
 
         List<ProductCommentsDto> productCommentsDtoPagging = new();
-        productCommentPagging.ForEach(async p => {
-            var user = await userRepository.GetUserByUserIdAsync(p.UserCommentId);
+        productCommentPagging.ForEach(async p =>
+        {
+            var user = await userRepository.GetUserByUserIdAsync(new(p.UserCommentId));
             ProductCommentsDto productCommentDto = ProductCommentsDto.ConverProductCommentsToDto(p, user);
             productCommentsDtoPagging.Add(productCommentDto);
         });

@@ -1,4 +1,5 @@
 using Market.Domain.Core;
+using Market.Domain.ProductComments.Exceptions;
 using Market.Domain.Products.Events;
 using Market.Domain.Products.Exceptions;
 using Market.Domain.Users;
@@ -34,41 +35,62 @@ public class ProductAggregate : Entity, IAggregateRoot
         ProductUser = productUser;
         ProductOrder = productOrder;
 
-        this.AddDomainEvent(new ProductCreatedDomainEvent(this));
+        AddDomainEvent(new ProductCreatedDomainEvent(this));
     }
 
-    public void UserFavouriteProduct(ProductId productId, UserId userId)
+    public void UserFavouriteProduct(UserId userId)
     {
-        if (ProductStatus.Equals(ProductStatus.Remove)) 
+        if (ProductStatus.Equals(ProductStatus.Remove))
             throw new ProductHasBeenDeleted();
 
-        bool checkUserFavouriteProduct = ProductUser.UserFavouriteProduct.Any(u => u.Equals(userId));
-        if (!checkUserFavouriteProduct) {
-            this.AddDomainEvent(new ProductUserFavouriteDomainEvent(productId, userId));
-            ProductUser.UserFavouriteProduct.Add(userId);
+        bool checkUserFavouriteProduct = ProductUser.UserFavouriteProduct.Any(u => u.Equals(userId.Id));
+        if (!checkUserFavouriteProduct)
+        {
+            AddDomainEvent(new ProductUserFavouriteDomainEvent(ProductId, userId));
+            ProductUser.UserFavouriteProduct.Add(userId.Id);
             return;
         }
         throw new UserFavouriteProduct();
     }
-
     public void UserRemovedFavourite(ProductId productId, UserId userId)
     {
-        if (ProductStatus.Equals(ProductStatus.Remove)) 
+        if (ProductStatus.Equals(ProductStatus.Remove))
             throw new ProductHasBeenDeleted();
 
-        bool checkUserFavouriteProduct = ProductUser.UserFavouriteProduct.Any(u => u.Equals(userId));
-        if (checkUserFavouriteProduct) {
-            this.AddDomainEvent(new ProductUserRemovedFavouriteDomainEvent(productId, userId));
-            ProductUser.UserFavouriteProduct.Remove(userId);
+        bool checkUserFavouriteProduct = ProductUser.UserFavouriteProduct.Any(u => u.Equals(userId.Id));
+        if (checkUserFavouriteProduct)
+        {
+            AddDomainEvent(new ProductUserRemovedFavouriteDomainEvent(productId, userId));
+            ProductUser.UserFavouriteProduct.Remove(userId.Id);
             return;
         }
         throw new UserDonotFavouriteProduct();
     }
 
+    public void UserEvaluateProduct(int star, UserId userId)
+    {
+        if (star > 5 || star < 0)
+        {
+            throw new StarValueNotValidate();
+        }
+        if (ProductStatus.Equals(ProductStatus.Remove))
+        {
+            throw new ProductHasBeenDeleted();
+        }
+
+        double valueNewStar = (ProductInfomation.Star * ProductUser.CountEvaluated + star) / (ProductUser.CountEvaluated + 1);
+        double newStar = Math.Round(valueNewStar, 1);
+        ProductInfomation.SetStarProduct(newStar);
+        ProductUser.CountEvaluated++;
+        
+        AddDomainEvent(new ProductEvaluatedByUserDomainEvent(userId, ProductId, newStar));
+    }
+
     public void ProductRemoved(ProductId productId)
     {
-        if (ProductStatus == ProductStatus.Active) {
-            this.AddDomainEvent(new ProductRemovedDomainEvent(productId));
+        if (ProductStatus == ProductStatus.Active)
+        {
+            AddDomainEvent(new ProductRemovedDomainEvent(productId));
             ProductStatus = ProductStatus.Remove;
             return;
         }
@@ -76,39 +98,69 @@ public class ProductAggregate : Entity, IAggregateRoot
     }
 
     public void UserOrderProductSuccess(
-        UserId userId, List<ProductTypeUserOrderEvent> ProductTypeUserOrders)
+        UserId userId, ProductTypeValueId valueTypeOrderId, int countOrder)
     {
-        if (ProductStatus.Equals(ProductStatus.Remove)) 
+        if (ProductStatus.Equals(ProductStatus.Remove))
             throw new ProductHasBeenDeleted();
 
-        ProductType.ProductTypeValues.ForEach(p => {
-            var productTypeUserOrder = ProductTypeUserOrders.SingleOrDefault(pOrder =>
-                pOrder.ValueTypeOrderId.TypeId == p.ProductTypeValueId.TypeId);
-            if (productTypeUserOrder != null) {
-                p.SetQuantityProductType(p.QuantityType - productTypeUserOrder.CountOrder);
-                p.SetQuantityProductTypeSold(p.QuantityProductTypeSold + productTypeUserOrder.CountOrder);
+        ProductType.ProductTypeValues.ForEach(p =>
+        {
+            if (valueTypeOrderId.Equals(p.ProductTypeValueId))
+            {
+                p.SetQuantityProductType(p.QuantityType - countOrder);
+                p.SetQuantityProductTypeSold(p.QuantityProductTypeSold + countOrder);
+
+                ProductTypeUserOrderEvent productTypeUserOrder =
+                    new(valueTypeOrderId, p.ValueType, p.PriceType, countOrder);
+
+                AddDomainEvent(new ProductUserOrderedProductSuccessDomainEvent(
+                    ProductId, userId, productTypeUserOrder));
+
+                return;
+            }
+        });
+    }
+
+    public void UserOrderRecoveredProduct(
+        UserId userId, ProductTypeValueId productTypeValueId, int countOrder)
+    {
+        if (ProductStatus.Equals(ProductStatus.Remove))
+            throw new ProductHasBeenDeleted();
+
+        ProductType.ProductTypeValues.ForEach(p =>
+        {
+            if (productTypeValueId.Equals(p.ProductTypeValueId))
+            {
+                p.SetQuantityProductType(p.QuantityType + countOrder);
+                p.SetQuantityProductTypeSold(p.QuantityProductTypeSold - countOrder);
+
+                ProductTypeUserOrderEvent productTypeUserOrder =
+                    new(productTypeValueId, p.ValueType, p.PriceType, countOrder);
+
+                AddDomainEvent(new ProductUserOrderedProductRecoverdDomainEvent(
+                    ProductId, userId, productTypeUserOrder));
+
+                return;
             }
         });
 
-        this.AddDomainEvent(new ProductUserOrderedProductSuccessDomainEvent(
-            ProductId, userId, ProductTypeUserOrders));
     }
-
     public void CreatedNewProductType(UserId adminId, List<ProductTypeValue> newProductTypeValues)
     {
-        if (ProductStatus.Equals(ProductStatus.Remove)) 
+        if (ProductStatus.Equals(ProductStatus.Remove))
             throw new ProductHasBeenDeleted();
 
-        HashSet<ProductTypeValue> newProductTypesValueToHasSet 
+        HashSet<ProductTypeValue> newProductTypesValueToHasSet
             = ProductType.ProductTypeValues.ToHashSet();
-            
+
         newProductTypeValues.ForEach(p => newProductTypesValueToHasSet.Add(p));
 
-        if(newProductTypesValueToHasSet.Count == ProductType.ProductTypeValues.Count) 
+        if (newProductTypesValueToHasSet.Count == ProductType.ProductTypeValues.Count)
             throw new AllAddedProductTypesAlreadyExist();
 
         ProductType.SetProductType(newProductTypesValueToHasSet.ToList());
-        this.AddDomainEvent(new ProductCreatedNewProductTypeDomainEvent(ProductId, adminId, newProductTypeValues));
+        AddDomainEvent(new
+            ProductCreatedNewProductTypeDomainEvent(ProductId, adminId, newProductTypeValues));
 
     }
 }

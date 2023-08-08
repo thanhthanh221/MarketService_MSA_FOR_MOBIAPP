@@ -14,4 +14,9 @@ public class GetProductByIdQuery : QueryBase<ProductAggregateDto>
         ProductId = productId;
         UserId = userId;
     }
+
+    public GetProductByIdQuery(ProductId productId)
+    {
+        ProductId = productId;
+    }
 }

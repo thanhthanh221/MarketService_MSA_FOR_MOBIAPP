@@ -6,6 +6,7 @@ public interface IProductCommentRepository
     Task CreateProductCommentAsync(ProductCommentAggregate productComment);
     Task<ProductCommentAggregate> GetProductCommentByIdAsync(ProductCommentId productCommentId);
     Task<List<ProductCommentAggregate>> GetCommentsByProductIdAsync(ProductId productId);
+    Task<List<ProductCommentAggregate>> GetAllCommentAsync();
     Task DeleteProductComment(ProductCommentId productCommentId);
     Task UpdateProductComment(ProductCommentAggregate productComment);
 }

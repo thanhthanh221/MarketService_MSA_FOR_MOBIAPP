@@ -46,7 +46,7 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.1.1, )"
             },
             "MongoDB.Driver.Core": {
               "target": "Package",

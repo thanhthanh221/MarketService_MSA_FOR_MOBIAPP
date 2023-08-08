@@ -24,9 +24,11 @@ public class UpdateProductsCacheJob : IJob
 
         await reposeCache.RemoveCacheByPatternAsync(CachePatternData.ProductPattern);
 
-        allProduct.ForEach(async p => {
-            await reposeCache.SetCacheReponseAsync(CachePatternData.CouponPattern + p.ProductId.Id,
-                p, new TimeSpan(24, 0, 0));
+        allProduct.ForEach(async p =>
+        {
+            await reposeCache.SetCacheReponseAsync(CachePatternData.ProductPattern + p.ProductId.Id,
+                ProductSnapShot.ConvertProductToShapshot(p),
+                new TimeSpan(24, 0, 0));
         });
         logger.LogInformation("Update Product Data In Cache");
     }

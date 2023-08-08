@@ -44,9 +44,9 @@ public static class MockProductRepository
             ProductCategory.Bread
         };
         ProductUser productUser = new() {
-            UserFavouriteProduct = new List<UserId>() {
-                new UserId(Guid.NewGuid()),
-                new UserId(Guid.NewGuid())
+            UserFavouriteProduct = new() {
+                Guid.NewGuid(),
+                Guid.NewGuid()
             }
         };
         ProductOrder productOrder = new(0, new TimeSpan(1, 10, 10));

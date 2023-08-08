@@ -1,9 +1,17 @@
+using Market.Domain.Coupons;
+using Market.Domain.ProductComments;
 using Market.Domain.Products;
 using Market.Domain.Users;
+using Market.Infrastructure.Domain.Coupons;
+using Market.Infrastructure.Domain.ProductComments;
 using Market.Infrastructure.Domain.Products;
+using Market.Infrastructure.Domain.Users;
 using Market.Infrastructure.MarketContext;
 using Market.Infrastructure.MongoDb;
 using Microsoft.Extensions.Options;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization;
+using MongoDB.Bson.Serialization.Serializers;
 
 namespace Market.IntegrationTests.Products;
 public class ProductIntergrationTestsFixture : IDisposable
@@ -16,9 +24,17 @@ public class ProductIntergrationTestsFixture : IDisposable
         marketDbContext = new(Options.Create(new MongoDbSettings() {
             Host = "Localhost",
             Port = "27017",
-            Name = "market_IntegrationsProducts"
+            Name = "market_service"
         }));
-        productRepository = new(marketDbContext.Products);
+        BsonSerializer.RegisterSerializer(new GuidSerializer(BsonType.String)); // Chỉnh Giud thành String
+        BsonSerializer.RegisterSerializer(new DateTimeSerializer(BsonType.String)); // Ngày tháng thành String
+
+        // Config Entity Props Entity
+        BsonClassMap.RegisterClassMap<ProductAggregate>(p => ProductConfiguration.Configure(p));
+        BsonClassMap.RegisterClassMap<ProductCommentAggregate>(p => ProductCommentConfiguration.Configure(p));
+        BsonClassMap.RegisterClassMap<CouponAggregate>(c => CouponConfiguration.Configure(c));
+        BsonClassMap.RegisterClassMap<UserAggregate>(u => UserConfiguration.Configure(u));
+        productRepository = new(marketDbContext);
     }
     public static ProductAggregate CreateProductDataFake()
     {
@@ -36,9 +52,9 @@ public class ProductIntergrationTestsFixture : IDisposable
             ProductCategory.Bread
         };
         ProductUser productUser = new() {
-            UserFavouriteProduct = new List<UserId>() {
-                new UserId(Guid.NewGuid()),
-                new UserId(Guid.NewGuid())
+            UserFavouriteProduct = new() {
+                Guid.NewGuid(),
+                Guid.NewGuid()
             }
         };
         ProductOrder productOrder = new(0, new TimeSpan(1, 10, 10));
@@ -58,6 +74,6 @@ public class ProductIntergrationTestsFixture : IDisposable
 
     public void Dispose()
     {
-        marketDbContext.Client.DropDatabase("market_IntegrationsProducts");
+        // marketDbContext.Client.DropDatabase("market_IntegrationsProducts");
     }
 }

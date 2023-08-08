@@ -13,30 +13,16 @@ public class ProductAggregateDto
     public string ProductImageUri { get; set; }
     public string ProductTypeName { get; set; }
     public List<ProductTypeValue> ProductTypeValues { get; set; }
-    public ProductStatus ProductStatus { get; set; }
+    public string ProductStatus { get; set; }
     public TimeSpan TimeOrder { get; set; }
 
-    public static ProductAggregateDto ConvertProductAggregateToProductDto(ProductAggregate productAggregate)
-    {
-        return new ProductAggregateDto() {
-            ProductId = productAggregate.ProductId.Id,
-            ProductName = productAggregate.ProductInfomation.Name,
-            Calo = productAggregate.ProductInfomation.Calo,
-            Descretion = productAggregate.ProductInfomation.Descretion,
-            Star = productAggregate.ProductInfomation.Star,
-            ProductImageUri = productAggregate.ProductInfomation.ProductImageUri,
-            ProductTypeName = productAggregate.ProductType.ProductTypeName,
-            ProductTypeValues = productAggregate.ProductType.ProductTypeValues,
-            ProductStatus = productAggregate.ProductStatus,
-            TimeOrder = productAggregate.ProductOrder.TimeOrder
-        };
-
-    }
     public static ProductAggregateDto ConvertProductAggregateToProductDtoByUserRequest(ProductAggregate productAggregate, UserId userId)
     {
-        return new ProductAggregateDto() {
+        return new ProductAggregateDto()
+        {
             ProductId = productAggregate.ProductId.Id,
-            RequestByUserCheckFavouriteProduct = productAggregate.ProductUser.UserFavouriteProduct.Any(c =>c == userId),
+            RequestByUserCheckFavouriteProduct = userId is null && productAggregate.ProductUser
+                .UserFavouriteProduct.Any(c => c.Equals(userId.Id)),
             ProductName = productAggregate.ProductInfomation.Name,
             Calo = productAggregate.ProductInfomation.Calo,
             Descretion = productAggregate.ProductInfomation.Descretion,
@@ -44,10 +30,29 @@ public class ProductAggregateDto
             ProductImageUri = productAggregate.ProductInfomation.ProductImageUri,
             ProductTypeName = productAggregate.ProductType.ProductTypeName,
             ProductTypeValues = productAggregate.ProductType.ProductTypeValues,
-            ProductStatus = productAggregate.ProductStatus,
+            ProductStatus = productAggregate.ProductStatus.StatusValue,
             TimeOrder = productAggregate.ProductOrder.TimeOrder
         };
+    }
 
+    public static ProductAggregateDto ConvertProductSnapshotToDtoByUser(
+        ProductSnapShot productSnapShot, UserId userId)
+    {
+        return new()
+        {
+            ProductId = productSnapShot.ProductId,
+            RequestByUserCheckFavouriteProduct = productSnapShot.UserFavouriteProduct
+                .Any(c => c.Equals(userId.Id)),
+            ProductName = productSnapShot.Name,
+            Calo = productSnapShot.Calo,
+            Descretion = productSnapShot.Descretion,
+            Star = productSnapShot.Star,
+            ProductImageUri = productSnapShot.ProductImageUri,
+            ProductTypeName = productSnapShot.ProductTypeName,
+            ProductTypeValues = productSnapShot.ProductTypeValues,
+            ProductStatus = productSnapShot.ProductStatus,
+            TimeOrder = productSnapShot.TimeOrder,
+        };
     }
 
 }

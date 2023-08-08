@@ -4,8 +4,8 @@ namespace Market.Domain.Products;
 
 public class ProductType
 {
-    public string ProductTypeName { get; private set; }
-    public List<ProductTypeValue> ProductTypeValues { get; private set; }
+    public string ProductTypeName { get; set; }
+    public List<ProductTypeValue> ProductTypeValues { get; set; }
 
     public ProductType(string productTypeName, List<ProductTypeValue> productTypeValues)
     {
@@ -17,19 +17,23 @@ public class ProductType
     {
         return ProductTypeValues.FirstOrDefault(p => p.ProductTypeValueId.Equals(productTypeValueId));
     }
-    public void SetProductType(List<ProductTypeValue> newProductTypesValue) {
+    public void SetProductType(List<ProductTypeValue> newProductTypesValue)
+    {
         ProductTypeValues = newProductTypesValue;
     }
 }
 
 public class ProductTypeValue
 {
-    public ProductTypeValueId ProductTypeValueId { get; private set; }
-    public string ValueType { get; private set; }
-    public decimal PriceType { get; private set; }
-    public int QuantityType { get; private set; }
-    public int QuantityProductTypeSold { get; private set; }
+    public ProductTypeValueId ProductTypeValueId { get; set; }
+    public string ValueType { get; set; }
+    public decimal PriceType { get; set; }
+    public int QuantityType { get; set; }
+    public int QuantityProductTypeSold { get; set; }
 
+    public ProductTypeValue()
+    {
+    }
     public ProductTypeValue(ProductTypeValueId productTypeValueId, string valueType, decimal priceType, int quantityType)
     {
         ProductTypeValueId = productTypeValueId;
@@ -38,17 +42,20 @@ public class ProductTypeValue
         QuantityType = quantityType;
         QuantityProductTypeSold = 0;
     }
-
-    public ProductTypeValue(
-        ProductTypeValueId productTypeValueId, string valueType, decimal priceType, int quantityType, int quantityProductTypeSold)
-        : this(productTypeValueId, valueType, priceType, quantityType)
+    public ProductTypeValue(ProductTypeValueId productTypeValueId, string valueType, decimal priceType, int quantityType, int quantityProductTypeSold)
     {
+        ProductTypeValueId = productTypeValueId;
+        ValueType = valueType;
+        PriceType = priceType;
+        QuantityType = quantityType;
         QuantityProductTypeSold = quantityProductTypeSold;
     }
 
+
     public void SetQuantityProductType(int newQuantity)
     {
-        if (newQuantity < 0) {
+        if (newQuantity < 0)
+        {
             throw new ProductQuantityLessThanZero();
         }
         QuantityType = newQuantity;
@@ -61,7 +68,7 @@ public class ProductTypeValue
 
     public override bool Equals(object obj)
     {
-        if (obj == null || this.GetType() != obj.GetType())return false;
+        if (obj == null || GetType() != obj.GetType()) return false;
         ProductTypeValue otherObject = (ProductTypeValue)obj;
         return ValueType == otherObject.ValueType;
     }
@@ -74,6 +81,5 @@ public class ProductTypeValue
 public class ProductTypeValueId
 {
     public ProductTypeValueId(Guid typeId) => TypeId = typeId;
-
-    public Guid TypeId { get; private set; }
+    public Guid TypeId { get; set; }
 }

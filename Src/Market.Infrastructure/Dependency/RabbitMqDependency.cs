@@ -38,6 +38,5 @@ public class RabbitMqDependency : IInstaller
         });
 
         // Đăng Ký Consumer
-        services.AddHostedService<CreateUserConsumer>();
     }
 }

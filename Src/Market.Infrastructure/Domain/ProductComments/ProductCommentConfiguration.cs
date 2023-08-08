@@ -7,6 +7,8 @@ public static class ProductCommentConfiguration
     public static void Configure(BsonClassMap<ProductCommentAggregate> p)
     {
         p.AutoMap();
-        p.MapIdMember(p => p.ProductCommentId);
+        p.SetIgnoreExtraElements(true);
+        // // Key
+        p.MapIdMember(x => x.ProductCommentId);
     }
 }

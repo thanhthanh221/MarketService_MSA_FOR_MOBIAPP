@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xp2uhB/sw8ETzBzDChPgTNHm3r7R2+oAbA9WBrGW808o654o6JtOf2Ft47IVBH99E9CelM9+UgZ/q8GmhMbPuA==",
+  "dgSpecHash": "Y0f/IxNDZTOmURvoELErmU4MrMjYlcCaG1RKjrO9P+tn1YtQPytUxyAwi5/TFCKPRjHKou6ILu8PvhDoz1oErg==",
   "success": true,
   "projectFilePath": "c:\\Users\\FPT SHOP\\Downloads\\MSA_MobiApp_BackEnd\\Market\\Src\\Market.Domain.Core\\Market.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPT SHOP\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
-    "C:\\Users\\FPT SHOP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\FPT SHOP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\FPT SHOP\\.nuget\\packages\\mongodb.bson\\2.15.0\\mongodb.bson.2.15.0.nupkg.sha512",

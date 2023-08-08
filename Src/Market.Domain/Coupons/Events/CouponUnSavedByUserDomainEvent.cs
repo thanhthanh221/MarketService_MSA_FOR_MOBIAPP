@@ -6,9 +6,14 @@ public class CouponUnSavedByUserDomainEvent : DomainEventBase
 {
     public UserId UserId { get; private set; }
     public CouponId CouponId { get; private set; }
-    public CouponUnSavedByUserDomainEvent(UserId userId, CouponId couponId)
+    public int Amount { get; private set; }
+    public int UserSaveCouponCount {get; private set;}
+
+    public CouponUnSavedByUserDomainEvent(UserId userId, CouponId couponId, int amount, int userSaveCouponCount)
     {
         UserId = userId;
         CouponId = couponId;
+        Amount = amount;
+        UserSaveCouponCount = userSaveCouponCount;
     }
 }

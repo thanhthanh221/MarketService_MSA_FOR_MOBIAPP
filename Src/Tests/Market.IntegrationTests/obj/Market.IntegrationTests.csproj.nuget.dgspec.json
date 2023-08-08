@@ -53,7 +53,15 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
@@ -134,7 +142,7 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.1.1, )"
             },
             "MongoDB.Driver.Core": {
               "target": "Package",
@@ -291,6 +299,10 @@
               "target": "Package",
               "version": "[22.0.0, )"
             },
+            "Imgur.API": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
               "version": "[2.2.2, )"
@@ -308,10 +320,6 @@
               "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[6.0.0, )"
             },
@@ -339,9 +347,17 @@
               "target": "Package",
               "version": "[3.6.3, )"
             },
+            "Quartz.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.6.3, )"
+            },
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
             },
             "StackExchange.Redis": {
               "target": "Package",
@@ -414,7 +430,7 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[12.1.1, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",

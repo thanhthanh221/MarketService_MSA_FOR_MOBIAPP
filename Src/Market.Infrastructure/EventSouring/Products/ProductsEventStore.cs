@@ -1,4 +1,3 @@
-using System.Text;
 using System.Text.Json;
 using EventStore.Client;
 using Market.Domain.Products;
@@ -21,11 +20,26 @@ public class ProductEventStore : IProductEventStore
         throw new NotImplementedException();
     }
 
+    public async Task SaveProductDomainEventAsync(ProductId productId, object domainEvent, CancellationToken cancellationToken = default)
+    {
+        var eventData = new EventData(
+            eventId: Uuid.NewUuid(),
+            type: domainEvent.GetType().Name,
+            data: JsonSerializer.SerializeToUtf8Bytes(domainEvent)
+        );
+        await eventStoreClient.AppendToStreamAsync(
+            GetProductStreamName(productId),
+            StreamState.Any,
+            new List<EventData>(){eventData},
+            cancellationToken: cancellationToken
+        );
+    }
+
     public async Task SaveProductDomainEventAsync(ProductAggregate productAggregate)
     {
         if (!productAggregate.DomainEvents.Any()) return;
 
-        var changes = productAggregate.DomainEvents
+        var events = productAggregate.DomainEvents
             .Select(change => new EventData(
                 eventId: Uuid.NewUuid(),
                 type: change.GetType().Name,
@@ -33,8 +47,9 @@ public class ProductEventStore : IProductEventStore
 
         await eventStoreClient.AppendToStreamAsync(
             GetProductStreamName(productAggregate.ProductId),
-            StreamRevision.FromInt64(productAggregate.Version),
-            changes
+            StreamState.Any,
+            events
         );
     }
+    
 }

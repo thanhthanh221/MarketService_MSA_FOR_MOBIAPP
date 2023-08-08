@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MediatR" Version="11.0.0" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
     <PackageReference Include="MongoDB.Driver.Core" Version="2.15.0" />
   </ItemGroup>
 

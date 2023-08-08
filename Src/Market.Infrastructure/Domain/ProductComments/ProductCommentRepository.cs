@@ -1,5 +1,7 @@
 using Market.Domain.ProductComments;
 using Market.Domain.Products;
+using Market.Infrastructure.MarketContext;
+using MongoDB.Bson;
 using MongoDB.Driver;
 
 namespace Market.Infrastructure.Domain.ProductComments;
@@ -9,9 +11,9 @@ public class ProductCommentRepository : IProductCommentRepository
     private readonly FilterDefinitionBuilder<ProductCommentAggregate> filterBuilder
         = Builders<ProductCommentAggregate>.Filter;
 
-    public ProductCommentRepository(IMongoCollection<ProductCommentAggregate> productCommentCollection)
+    public ProductCommentRepository(MarketDbContext context)
     {
-        this.productCommentCollection = productCommentCollection;
+        productCommentCollection = context.ProductComments;
     }
     public async Task CreateProductCommentAsync(ProductCommentAggregate productComment)
     {
@@ -24,9 +26,14 @@ public class ProductCommentRepository : IProductCommentRepository
         await productCommentCollection.DeleteOneAsync(filter);
     }
 
+    public async Task<List<ProductCommentAggregate>> GetAllCommentAsync()
+    {
+        return await productCommentCollection.Find(new BsonDocument()).ToListAsync();
+    }
+
     public async Task<List<ProductCommentAggregate>> GetCommentsByProductIdAsync(ProductId productId)
     {
-        var filter = filterBuilder?.Eq(p => p.ProductId, productId);
+        var filter = filterBuilder?.Eq(p => p.ProductId, productId.Id);
         return (await productCommentCollection.FindAsync(filter)).ToList();
     }
 

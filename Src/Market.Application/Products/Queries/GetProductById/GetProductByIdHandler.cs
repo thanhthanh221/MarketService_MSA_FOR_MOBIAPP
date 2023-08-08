@@ -18,13 +18,14 @@ public class GetProductByIdHandler : IQueryHandler<GetProductByIdQuery, ProductA
 
     public async Task<ProductAggregateDto> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
     {
-        var productDataInCache = await reponseCache.GetCacheReponseByPatternAsync(CachePatternData.ProductPattern);
+        var cacheKey = CachePatternData.ProductPattern + request.ProductId;
+        var productInCacheData = await reponseCache.GetCacheReponseAsync(cacheKey);
 
-        if(productDataInCache.Count != 0) {
-            var productInCacheData = await reponseCache.GetCacheReponseAsync($"{CachePatternData.ProductPattern}{request.ProductId}");
-            var productInCache = JsonConvert.DeserializeObject<ProductAggregate>(productInCacheData);
-            return ProductAggregateDto.ConvertProductAggregateToProductDtoByUserRequest(productInCache, request.UserId);
-        } 
+        if (!string.IsNullOrEmpty(productInCacheData))
+        {
+            var productInCache = JsonConvert.DeserializeObject<ProductSnapShot>(productInCacheData);
+            return ProductAggregateDto.ConvertProductSnapshotToDtoByUser(productInCache, request.UserId);
+        }
         var productInDataBase = await productRepository.GetProductByIdAsync(request.ProductId);
 
         return ProductAggregateDto.ConvertProductAggregateToProductDtoByUserRequest(productInDataBase, request.UserId);

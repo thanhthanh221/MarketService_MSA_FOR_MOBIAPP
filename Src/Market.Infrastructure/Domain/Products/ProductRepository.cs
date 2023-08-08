@@ -1,4 +1,5 @@
 using Market.Domain.Products;
+using Market.Infrastructure.MarketContext;
 using MongoDB.Bson;
 using MongoDB.Driver;
 
@@ -9,9 +10,9 @@ public class ProductRepository : IProductRepository
     private readonly IMongoCollection<ProductAggregate> productCollection;
     private readonly FilterDefinitionBuilder<ProductAggregate> filterBuilder = Builders<ProductAggregate>.Filter;
 
-    public ProductRepository(IMongoCollection<ProductAggregate> productCollection)
+    public ProductRepository(MarketDbContext context)
     {
-        this.productCollection = productCollection;
+        this.productCollection = context.Products;
     }
 
     public async Task CreateProductAsync(ProductAggregate productAggregate)

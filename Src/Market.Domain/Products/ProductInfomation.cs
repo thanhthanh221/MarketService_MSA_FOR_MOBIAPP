@@ -20,4 +20,18 @@ public class ProductInfomation
         ProductImageUri = productImageUri;
         CreateAt = createAt;
     }
+    public ProductInfomation(
+        string name, decimal price, int calo, string descretion, string productImageUri)
+    {
+        Name = name;
+        Price = price;
+        Calo = calo;
+        Descretion = descretion;
+        Star = 0;
+        ProductImageUri = productImageUri;
+        CreateAt = DateTime.UtcNow;
+    }
+    public void SetStarProduct(double newStar){
+        Star = newStar;
+    }
 }
