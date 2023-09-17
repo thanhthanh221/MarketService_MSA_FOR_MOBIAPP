@@ -6,7 +6,7 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
 namespace Market.Application.Coupons.Events;
-public class RecoveredCouponEventHandler : IEventHandler<CouponRecoveredDomainEvent>
+public class RecoveredCouponEventHandler : IEventHandler<RecoveredCouponDomainEvent>
 {
     private readonly ICouponEventStore couponEventStore;
     private readonly IReposeCache reposeCache;
@@ -20,7 +20,7 @@ public class RecoveredCouponEventHandler : IEventHandler<CouponRecoveredDomainEv
         this.logger = logger;
     }
 
-    public async Task Handle(CouponRecoveredDomainEvent @event, CancellationToken cancellationToken)
+    public async Task Handle(RecoveredCouponDomainEvent @event, CancellationToken cancellationToken)
     {
         await couponEventStore.SaveDomainEventAsync(@event.CouponId, @event, cancellationToken);
 

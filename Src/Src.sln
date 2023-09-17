@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market.IntegrationTests", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market.UnitTests", "Tests\Market.UnitTests\Market.UnitTests.csproj", "{47320624-49C8-4248-8F57-798FB2957282}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event.Message", "..\..\Event\Event.Message.csproj", "{C7A9F96C-ABB0-4341-AD92-BB020DB712F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{47320624-49C8-4248-8F57-798FB2957282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47320624-49C8-4248-8F57-798FB2957282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47320624-49C8-4248-8F57-798FB2957282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A9F96C-ABB0-4341-AD92-BB020DB712F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A9F96C-ABB0-4341-AD92-BB020DB712F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A9F96C-ABB0-4341-AD92-BB020DB712F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A9F96C-ABB0-4341-AD92-BB020DB712F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,3 +1,4 @@
+using Market.Application.Common.OutBox;
 using Market.Domain.Coupons;
 using Market.Domain.ProductComments;
 using Market.Domain.Products;
@@ -15,6 +16,7 @@ public class MarketDbContext : MongoClient
     public IMongoCollection<CouponAggregate> Coupons { get; set; }
     public IMongoCollection<ProductCommentAggregate> ProductComments { get; set; }
     public IMongoCollection<UserAggregate> Users { get; set; }
+    public IMongoCollection<OutboxMessage> OutBox { get; set; }
 
     public MarketDbContext(IOptions<MongoDbSettings> dbSettings)
     {
@@ -26,5 +28,6 @@ public class MarketDbContext : MongoClient
         Coupons = dataBase.GetCollection<CouponAggregate>("Coupon");
         ProductComments = dataBase.GetCollection<ProductCommentAggregate>("ProductComment");
         Users = dataBase.GetCollection<UserAggregate>("User");
+        OutBox =  dataBase.GetCollection<OutboxMessage>("OutBox");
     }
 }

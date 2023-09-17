@@ -613,3 +613,17 @@ c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.Integrat
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Imgur.API.dll
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Quartz.Extensions.Hosting.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Automatonymous.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\GreenPipes.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\MassTransit.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\MassTransit.AutofacIntegration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\NewId.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Event.Message.dll
+c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Tests\Market.IntegrationTests\bin\Debug\net6.0\Event.Message.pdb

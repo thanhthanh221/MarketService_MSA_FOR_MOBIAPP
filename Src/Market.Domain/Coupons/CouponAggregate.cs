@@ -18,10 +18,10 @@ public class CouponAggregate : Entity, IAggregateRoot
         CouponInfomation = couponInfomation;
         CouponStatus = CouponStatus.Activity;
 
-        this.AddDomainEvent(new CouponCreatedByAdminDomainEvent(this));
+        AddDomainEvent(new CouponCreatedByAdminDomainEvent(this));
     }
 
-    public void UserSaveCoupon(UserId userId)
+    public void SaveCoupon(UserId userId)
     {
         if (CouponInfomation.Expired < DateTime.UtcNow)
         {
@@ -42,11 +42,11 @@ public class CouponAggregate : Entity, IAggregateRoot
         CouponInfomation.SetCouponAmount(CouponInfomation.Amount - 1);
         CouponUsers.Add(new CouponUser(userId));
 
-        this.AddDomainEvent(new CouponSavedByUserDomainEvent(
-            userId, CouponId, CouponInfomation.Amount, CouponUsers.Count));
+        AddDomainEvent(new SavedCouponDomainEvent(
+            userId, CouponId, CouponInfomation.Amount));
     }
 
-    public void UserUnSaveCoupon(UserId userId)
+    public void UnSaveCoupon(UserId userId)
     {
         if (CouponInfomation.Expired < DateTime.UtcNow)
         {
@@ -63,10 +63,10 @@ public class CouponAggregate : Entity, IAggregateRoot
         CouponUsers.RemoveWhere(c => c.UserId.Equals(userId));
         CouponInfomation.SetCouponAmount(CouponInfomation.Amount + 1);
 
-        this.AddDomainEvent(new
+        AddDomainEvent(new
         CouponUnSavedByUserDomainEvent(userId, CouponId, CouponInfomation.Amount, CouponUsers.Count));
     }
-    public void UserUseCoupon(UserId userId)
+    public void UseCoupon(UserId userId)
     {
         if (CouponInfomation.Expired < DateTime.UtcNow)
         {
@@ -75,10 +75,10 @@ public class CouponAggregate : Entity, IAggregateRoot
         CouponUsers.RemoveWhere(c => c.UserId.Equals(userId));
         CouponInfomation.SetCountCouponUse(CouponInfomation.CountCouponUse + 1);
 
-        this.AddDomainEvent(new CouponUsedByUserDomainEvent(userId, CouponId, CouponInfomation.CountCouponUse));
+        AddDomainEvent(new UsedCouponDomainEvent(userId, CouponId, CouponInfomation.CountCouponUse));
     }
 
-    public void UserRecoveredCoupon(UserId userId)
+    public void UseCouponFail(UserId userId)
     {
         if (CouponInfomation.Expired < DateTime.UtcNow)
         {
@@ -87,20 +87,20 @@ public class CouponAggregate : Entity, IAggregateRoot
         CouponUsers.Add(new CouponUser(userId));
         CouponInfomation.SetCountCouponUse(CouponInfomation.CountCouponUse - 1);
 
-        this.AddDomainEvent(new CouponRecoveredDomainEvent(CouponId, userId, CouponInfomation.CountCouponUse));
+        AddDomainEvent(new RecoveredCouponDomainEvent(CouponId, userId, CouponInfomation.CountCouponUse));
     }
-    public void RemoveCouponByAdmin(UserId adminId)
+    public void RemoveCoupon(UserId adminId)
     {
         if (CouponStatus.Equals(CouponStatus.Activity) || CouponStatus.Equals(CouponStatus.Expires))
         {
             CouponStatus = CouponStatus.Deleted;
 
-            this.AddDomainEvent(new CouponRemovedByAdminDomainEvent(adminId, CouponId));
+            AddDomainEvent(new CouponRemovedByAdminDomainEvent(adminId, CouponId));
             return;
         }
         throw new CouponRemovedException();
     }
-    public void AdminSetCouponExpired(UserId adminId)
+    public void SetCouponExpired(UserId adminId)
     {
         if (CouponStatus.Equals(CouponStatus.Expires))
         {
@@ -110,7 +110,7 @@ public class CouponAggregate : Entity, IAggregateRoot
         if (CouponStatus.Equals(CouponStatus.Activity))
         {
             CouponStatus = CouponStatus.Expires;
-            this.AddDomainEvent(new CouponUpdatedExpiredDomainEvent(CouponId, adminId));
+            AddDomainEvent(new CouponUpdatedExpiredDomainEvent(CouponId, adminId));
             return;
         }
         throw new CouponExpiredException();

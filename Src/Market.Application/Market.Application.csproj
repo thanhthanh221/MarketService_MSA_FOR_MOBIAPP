@@ -13,9 +13,12 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+    <PackageReference Include="MassTransit.AspNetCore" Version="7.1.3" />
+    <PackageReference Include="MassTransit.Autofac" Version="7.1.3" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Event\Event.Message.csproj" />
     <ProjectReference Include="..\Market.Domain\Market.Domain.csproj" />
     <ProjectReference Include="..\Market.Domain.Core\Market.Domain.Core.csproj" />
   </ItemGroup>

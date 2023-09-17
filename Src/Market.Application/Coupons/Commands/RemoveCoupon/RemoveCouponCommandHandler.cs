@@ -23,7 +23,7 @@ public class RemoveCouponCommandHandler : ICommandHandler<RemoveCouponCommand, G
 
         var coupon = await couponRepository.GetCouponByIdAsync(couponId);
 
-        coupon.RemoveCouponByAdmin(adminId);
+        coupon.RemoveCoupon(adminId);
         await couponRepository.UpdateCouponAsync(coupon);
 
         logger.LogInformation($"Admin {adminId.Id} remove {couponId.Id}");

@@ -40,7 +40,7 @@ internal class CreateProductCommandHandler : ICommandHandler<CreateProductComman
         await productRepository.CreateProductAsync(product);
         logger.LogInformation($"Create Product: {product.ProductId.Id}");
 
-        await mediator.Publish(new ProductCreatedDomainEvent(product), cancellationToken);
+        await mediator.Publish(new CreatedProductDomainEvent(product), cancellationToken);
 
         return product.ProductId.Id;
     }

@@ -1,8 +1,8 @@
 using Market.Api.Aggregates.Product.Requests;
 using Market.Application.Common.Bus;
 using Market.Application.Common.File;
+using Market.Application.Products.Commands.FavouriteProduct;
 using Market.Application.Products.Commands.RemoveProduct;
-using Market.Application.Products.Commands.UserFavouriteProduct;
 using Market.Application.Products.Queries.GetProductById;
 using Market.Application.Products.Queries.GetProductPagging;
 using Market.Domain.Products;
@@ -104,7 +104,7 @@ public class ProductController : ControllerBase
     {
         try
         {
-            UserFavouriteProductCommand command = new(new(productId), new(userId));
+            FavouriteProductCommand command = new(new(productId), new(userId));
             var response = await messageBus.Send(command);
             return Ok(response);
         }

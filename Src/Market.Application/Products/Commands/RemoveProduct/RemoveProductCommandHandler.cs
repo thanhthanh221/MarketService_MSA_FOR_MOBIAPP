@@ -20,10 +20,10 @@ public class RemoveProductCommandHandler : ICommandHandler<RemoveProductCommand,
         var product = await productRepository.GetProductByIdAsync(request.ProductId);
         if (product is null) return Guid.Empty;
 
-        product.ProductRemoved(product.ProductId);
+        product.RemoveProduct(product.ProductId);
         await productRepository.UpdateProductAsync(product);
 
-        await messageBus.Publish(new ProductRemovedDomainEvent(request.ProductId), cancellationToken);
+        await messageBus.Publish(new RemovedProductDomainEvent(request.ProductId), cancellationToken);
         return request.ProductId.Id;
     }
 }

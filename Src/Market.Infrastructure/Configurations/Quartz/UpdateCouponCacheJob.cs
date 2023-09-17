@@ -19,6 +19,16 @@ public class UpdateCouponCacheJob : IJob
 
     public async Task Execute(IJobExecutionContext context)
     {
-        Console.WriteLine(1);
+        var allcoupon = await couponRepository.GetAllCouponAsync();
+
+        await reposeCache.RemoveCacheByPatternAsync(CachePatternData.ProductPattern);
+
+        allcoupon.ForEach(async p =>
+        {
+            await reposeCache.SetCacheReponseAsync(CachePatternData.CouponPattern+ p.CouponId.Id,
+                p,
+                new TimeSpan(24, 0, 0));
+        });
+        logger.LogInformation("Update Coupon Data In Cache");
     }
 }

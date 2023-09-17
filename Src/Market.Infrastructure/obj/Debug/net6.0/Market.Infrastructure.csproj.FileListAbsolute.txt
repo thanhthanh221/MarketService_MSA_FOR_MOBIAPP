@@ -76,3 +76,5 @@ c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Infrastructure
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Infrastructure\obj\Debug\net6.0\refint\Market.Infrastructure.dll
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Infrastructure\obj\Debug\net6.0\Market.Infrastructure.pdb
 c:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Infrastructure\obj\Debug\net6.0\ref\Market.Infrastructure.dll
+C:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Infrastructure\bin\Debug\net6.0\Event.Message.dll
+C:\Users\FPT SHOP\Downloads\MSA_MobiApp_BackEnd\Market\Src\Market.Infrastructure\bin\Debug\net6.0\Event.Message.pdb

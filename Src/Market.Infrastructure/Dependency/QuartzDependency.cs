@@ -30,6 +30,11 @@ public class QuartzDependency : IInstaller
             q.AddJob<UpdateCouponCacheJob>(jobUpdateCouponKey)
             .AddTrigger(t => t.ForJob(jobUpdateCouponKey).WithSimpleSchedule(s =>
                 s.WithIntervalInHours(24).RepeatForever()));
+
+            var jobProcessMessageBroker = JobKey.Create(nameof(ProcessMessageBrokerJob));
+            q.AddJob<ProcessMessageBrokerJob>(jobProcessMessageBroker)
+            .AddTrigger(t => t.ForJob(jobProcessMessageBroker).WithSimpleSchedule(s =>
+                s.WithIntervalInMinutes(1).RepeatForever()));
         });
 
         services.AddQuartzHostedService(q => q.WaitForJobsToComplete = true);
